@@ -38,7 +38,7 @@ Multi-role platform (Trainer · Student · Client · Knowinmy Admin) with real-t
 
 ---
 
-### 🔗 [URL Shortener API](https://github.com/KANISHKAprabha/URL-Shortener) — FastAPI
+### 🔗 [URL Shortener API](https://github.com/KANISHKAprabha/URL-Shortener) -- [Live Demo](https://url-shortener-33sx.onrender.com) — FastAPI
 RESTful API for shortening, redirecting, and validating URLs. Modular architecture with SQLAlchemy ORM, Pydantic config management, and Uvicorn.
 `FastAPI` `SQLAlchemy` `Pydantic` `Python`
 
